@@ -1,4 +1,3 @@
-# git-challange-match-2024
-git example
+# git-challenge-match-2024
 
-hi team
+git tutorial with hands on example
