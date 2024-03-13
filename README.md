@@ -6,4 +6,4 @@ This is a repository for the Git Challenge Match 2024. It's meant to be used as 
 
 hi  Michael
 
-Attempt to pull without permissions
+Attempt to push without permissions
